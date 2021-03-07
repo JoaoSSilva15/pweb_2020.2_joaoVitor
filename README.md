@@ -1,2 +1,4 @@
-# pweb_2020.2_joaoVitor
- Meu repositório da diciplina de PWeb 2020.2
+# Repositório de João Vitor - PWeb 2020.2
+
+
+Teste referente a primeira aula de PWeb 2020.2
